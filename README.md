@@ -28,6 +28,8 @@
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
+  <br><br><br>
+
   <h1>📫 Contacts 📫</h1>
   
   [![Gmail Badge](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:enble_777@naver.com)](mailto:enble_777@naver.com)
