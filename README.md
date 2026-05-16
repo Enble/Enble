@@ -11,7 +11,8 @@ Java/Spring 기반 백엔드 엔지니어입니다.<br/>
 
 </div>
 
----
+<br />
+<br />
 
 <div align="center">
 
@@ -60,7 +61,8 @@ Java/Spring 기반 백엔드 엔지니어입니다.<br/>
 
 </div>
 
----
+<br />
+<br />
 
 <div align="center">
 
